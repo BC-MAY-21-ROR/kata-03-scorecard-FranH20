@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Franklin Carlos Huichi Contreras # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
-  website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  email: carloshuichi@gmail.com
+  phone: (+51) 960473318
+  website: franh20.github.io # No agregar http://
+  linkedin: https://www.linkedin.com/in/franklin-huichi/
+  github: https://github.com/FranH20
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@franhuichi'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,90 +27,71 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: ----- # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Empathy
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Patience
       link: # dejar en blanco
-
-    - item: Time Management
+      
+    - item: Creativity
       link: # dejar en blanco
-
+      
+    - item: Confidence
+      link: # dejar en blanco
+      
+    - item: Open-mindedness and adaptability
+      link: # dejar en blanco
+      
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Hello, my name is Franklin Huichi Contreras, I am 23 years old and I am a graduated of Systems Engineering, passionate about web development. I am from Peru and I  am passionate about working collaboratively with other devs, the languages that I like are Java, Python, Ruby and JavaScript.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Systems engineer
+    university: Universidad Privada de Tacna (Tacna, Peru)
+    time: 2016 - 2022 
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      Graduated in systems engineer
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Java Programming Analyst
+    time: 2022 - Present
+    company: Entelgy
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Analysis and Design, solution development, development of unit tests, documentation, running system tests, etc.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Back-end developer
+    time: 2021 Sep - 2021 Dec
+    company: Apaclla & Asociados
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Backend programming development in Java using Spring Boot, JPA, JDBC, ORM, Hibernate, 
+      MySQL, SQL, Thymeleaf, Ajax, Jquery, Rest Api. Support in the development of programming and database projects. 
+      Support in other functions assigned by the Team Leader.
+
+  - role: Organizational support in an academic event on Programming and Technology
+    time: 2021 May - 2021 Jun
+    company: Universidad Privada de Tacna
+    details: |
+      We organize an academic event called "CATEC - 2021-I" where we invite several 
+      speakers so that they can present the objective topics proposed by the organizing group. 
+      The event was released on both Facebook and YouTube.
+      
+  - role: Support in the academic area of systems
+    time: 2020 Dec - 2021 Apr
+    company: Corporacion Capacitadora del Sur S.A.C.
+    details: |
+      Teach basic and / or general Python to students just starting out in programming.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -123,23 +104,29 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
-
-    - name: PyTorch
       level: 40%
 
-    - name: Tensorflow
+    - name: FastApi
       level: 60%
 
-    - name: Caffe
+    - name: Java
+      level: 60%
+
+    - name: Spring Boot
+      level: 60%
+
+    - name: JavaScript
+      level: 20%
+
+    - name: ReactJs
+      level: 20%
+      
+    - name: Html & Css
       level: 80%
 
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
-      level: 40%
-
+    - name: Git
+      level: 80%
+      
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
