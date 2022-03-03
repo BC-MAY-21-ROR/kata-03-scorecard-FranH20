@@ -15,8 +15,8 @@ sidebar:
   email: carloshuichi@gmail.com
   phone: (+51) 960473318
   website: franh20.github.io # No agregar http://
-  linkedin: https://www.linkedin.com/in/franklin-huichi/
-  github: https://github.com/FranH20
+  linkedin: linkedin.com/in/franklin-huichi/
+  github: github.com/FranH20
   gitlab:
   bitbucket:
   twitter: '@franhuichi'
@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: ----- # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: EFSET English Certificate 59/100 (B2 Upper Intermediate) # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
